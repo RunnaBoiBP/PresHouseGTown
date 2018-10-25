@@ -10,7 +10,7 @@ body {
     display: grid;
     grid-template-columns: 10% 80% 10%;
     grid-template-rows: auto;
-    width: 77%;
+    width: 76%;
     height: auto;
     margin: 0 auto;
 }
